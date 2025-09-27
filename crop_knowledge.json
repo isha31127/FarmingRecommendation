@@ -1,0 +1,83 @@
+ {
+  "crops": {
+    "Rice": {
+      "description": "Paddy is Kerala's staple crop, grown in wetlands. Ideal for lowlands like Kuttanad.",
+      "planting_season": "June-July (Kharif) or November-December (Rabi)",
+      "soil_type": "Alluvial or clay loam, pH 5.5-7.0",
+      "water_needs": "High; 1200-1500 mm rainfall or irrigation",
+      "fertilizer": "NPK 100:50:50 kg/ha; use urea, superphosphate. Organic: Compost 5 tons/ha.",
+      "pests_diseases": "Stem borer, blast disease. Use neem oil; rotate crops.",
+      "yield_estimate": "4-6 tons/ha",
+      "optimization": "For small farms (<2 acres), use SRI method to save 30% water. Drip irrigation for dry spells.",
+      "location_specific": {
+        "Coastal (e.g., Alappuzha)": "Flood-tolerant varieties like Jaya.",
+        "Highland (e.g., Wayanad)": "Upland rice; avoid waterlogging."
+      }
+    },
+    "Coconut": {
+      "description": "Kerala's 'tree of life'; major plantation crop.",
+      "planting_season": "Monsoon (May-August)",
+      "soil_type": "Sandy loam, well-drained, pH 5.5-8.0",
+      "water_needs": "Medium; 1500-2000 mm rainfall",
+      "fertilizer": "NPK 500:320:1200 g/palm/year; green manure.",
+      "pests_diseases": "Rhinoceros beetle, bud rot. Use pheromone traps.",
+      "yield_estimate": "100-150 nuts/palm/year",
+      "optimization": "For large farms (>10 acres), inter-crop with banana. Mulch to retain soil moisture.",
+      "location_specific": {
+        "Coastal (e.g., Kollam)": "Salt-tolerant varieties.",
+        "Inland (e.g., Thrissur)": "Hybrid dwarfs for higher yield."
+      }
+    },
+    "Pepper": {
+      "description": "Kerala's spice king; vine crop on standards like silver oak.",
+      "planting_season": "June-September",
+      "soil_type": "Laterite or loamy, pH 5.5-6.5",
+      "water_needs": "Medium; drip irrigation recommended",
+      "fertilizer": "NPK 100:50:200 g/vine/year; micronutrients like zinc.",
+      "pests_diseases": "Quick wilt, scale insects. Use Trichoderma for soil health.",
+      "yield_estimate": "1-2 kg dry pepper/vine",
+      "optimization": "For medium farms (5-20 acres), shade planting reduces evaporation by 20%. Organic certification boosts price.",
+      "location_specific": {
+        "Highland (e.g., Idukki)": "Ideal; Panniyur-1 variety.",
+        "Lowland (e.g., Pathanamthitta)": "Elevated beds for drainage."
+      }
+    },
+    "Banana": {
+      "description": "Quick-yielding fruit crop; popular in homesteads.",
+      "planting_season": "Round year, best April-May",
+      "soil_type": "Loamy, pH 6.0-7.5",
+      "water_needs": "High; 1500 mm+",
+      "fertilizer": "NPK 200:60:300 kg/ha; banana trash as mulch.",
+      "pests_diseases": "Panama wilt, aphids. Use bio-agents like Pseudomonas.",
+      "yield_estimate": "20-30 tons/ha",
+      "optimization": "For small farms, tissue culture plants for uniformity. Windbreaks to prevent lodging.",
+      "location_specific": {
+        "Coastal (e.g., Kasaragod)": "Nendran variety for chips.",
+        "Inland (e.g., Palakkad)": "Robusta for export."
+      }
+    },
+    "Rubber": {
+      "description": "Kerala's cash crop; long-term plantation.",
+      "planting_season": "April-June",
+      "soil_type": "Laterite, pH 4.5-6.0",
+      "water_needs": "Medium; rain-fed in hills",
+      "fertilizer": "NPK 40:20:40 kg/ha/year; lime for acidity.",
+      "pests_diseases": "White root rot. Cover crops like calapagonia.",
+      "yield_estimate": "1500-2000 kg latex/ha",
+      "optimization": "For large farms, tapping schedules to optimize yield. Inter-crop with cocoa in early years.",
+      "location_specific": {
+        "Highland (e.g., Kottayam)": "RRII-105 clone for high yield.",
+        "Midland (e.g., Ernakulam)": "Avoid water-stressed areas."
+      }
+    }
+  },
+  "general_tips": {
+    "small_farm": "Focus on high-value, low-input crops. Use vermicompost to cut fertilizer costs by 50%.",
+    "medium_farm": "Adopt mechanization like power tillers. Join FPOs for bulk inputs.",
+    "large_farm": "Implement precision farming (soil testing). Crop insurance via PMFBY.",
+    "soil_improvement": "Add gypsum for sodic soils; green manuring for nutrients.",
+    "water_optimization": "Rainwater harvesting; mulching saves 25% water.",
+    "budget_low": "Prioritize organics; government subsidies via KAU.",
+    "beginner": "Start with demo plots; attend Krishi Vigyan Kendra trainings."
+  }
+}
